@@ -1,0 +1,29 @@
+
+Scientific Python Course Material
+
+* Contents
+
+You should see the following subdirectories:
+
+lecture01-intro
+lecture02-numpy
+lecture03-matplotlib
+lecture04-scipy
+lecture05-couple
+lecture06-object
+lecture07-mpi4py
+
+Lectures are presented as jupyter (formerly ipython) notebooks.
+To run the first notebook:
+
+$ cd lecture01-intro
+$ jupyter-notebook intro.ipynb
+
+Or, just start jupyter-notebook with no argument in the current
+directory, navigate to the first lecture intro.ipynb and click to start.
+
+You may need to paste in a local URL provided by jupyter-notebook in
+its output.
+
+Other material includes:
+images  logos etc
