@@ -1,3 +1,7 @@
+This repository contains the original teaching materials and example codes for the "Numerical Computation in Astronomy" course, together with my own code reproductions. All newly added or modified code has been created with assistance from AI tools.
+
+Previous README
+==============
 
 What you need to know.
 
